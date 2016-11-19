@@ -7,3 +7,4 @@
 * [Depth-First Search (DFS), Topological Sort - MIT OpenCourseWare](https://www.youtube.com/watch?v=AfSk24UTFS8)
 * [Python's Class Development Toolkit - Next Day Video](https://www.youtube.com/watch?v=HTLu2DFOdTg)
 * [The Art of Subclassing - Next Day Video](https://www.youtube.com/watch?v=miGolgp9xq8)
+* [What algorithms and data structures should any software engineer know? - quora](https://www.quora.com/What-algorithms-and-data-structures-should-any-software-engineer-know/answer/Arun-Sahay)

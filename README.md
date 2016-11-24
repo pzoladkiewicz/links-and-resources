@@ -12,3 +12,6 @@
 ##### Courses to consider
 * [Intro to Machine Learning - Udacity (Intermediate)](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 * [Machine Learning - Coursera (Hard)](https://www.coursera.org/learn/machine-learning)
+
+##### Misc.
+* [Learning How To Code Neural Networks - Per Harald Borgen - Medium](https://medium.com/learning-new-stuff/how-to-learn-neural-networks-758b78f2736e#.8cus20ssx)

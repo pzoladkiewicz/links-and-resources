@@ -10,4 +10,5 @@
 * [What algorithms and data structures should any software engineer know? - quora](https://www.quora.com/What-algorithms-and-data-structures-should-any-software-engineer-know/answer/Arun-Sahay)
 
 ##### Courses to consider
-* [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)
+* [Intro to Machine Learning - Udacity (Intermediate)](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+* [Machine Learning - Coursera (Hard)](https://www.coursera.org/learn/machine-learning)

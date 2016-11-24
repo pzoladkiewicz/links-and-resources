@@ -8,3 +8,6 @@
 * [Python's Class Development Toolkit - Next Day Video](https://www.youtube.com/watch?v=HTLu2DFOdTg)
 * [The Art of Subclassing - Next Day Video](https://www.youtube.com/watch?v=miGolgp9xq8)
 * [What algorithms and data structures should any software engineer know? - quora](https://www.quora.com/What-algorithms-and-data-structures-should-any-software-engineer-know/answer/Arun-Sahay)
+
+##### Courses to consider
+* [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)

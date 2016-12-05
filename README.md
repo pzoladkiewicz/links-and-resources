@@ -8,6 +8,9 @@
 * [Python's Class Development Toolkit - Next Day Video](https://www.youtube.com/watch?v=HTLu2DFOdTg)
 * [The Art of Subclassing - Next Day Video](https://www.youtube.com/watch?v=miGolgp9xq8)
 * [What algorithms and data structures should any software engineer know? - quora](https://www.quora.com/What-algorithms-and-data-structures-should-any-software-engineer-know/answer/Arun-Sahay)
+* [Python’s super() considered super! - Deep Thoughts by Raymond Hettinger](https://rhettinger.wordpress.com/2011/05/26/super-considered-super/)
+* [Python's Super is nifty, but you can't use it](https://fuhm.net/super-harmful/)
+* [The Sadness of Python's super()](http://blog.codekills.net/2014/04/02/the-sadness-of-pythons-super/)
 
 ##### Courses to consider
 * [Intro to Machine Learning - Udacity (Intermediate)](https://www.udacity.com/course/intro-to-machine-learning--ud120)

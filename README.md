@@ -17,3 +17,5 @@
 * [Learning How To Code Neural Networks - Per Harald Borgen - Medium](https://medium.com/learning-new-stuff/how-to-learn-neural-networks-758b78f2736e#.8cus20ssx)
 * [Machine Learning in a Week - Per Harald Borgen - Medium](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.hukatryt9)
 * [Machine Learning in a Year - Per Harald Borgen - Medium](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.gf3juioex)
+* [CS231n: Convolutional Neural Networks for Visual Recognition. - Stanford University](http://cs231n.github.io/)
+* [Python Numpy Tutorial - Stanford University CS231n](http://cs231n.github.io/python-numpy-tutorial/)

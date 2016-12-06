@@ -22,3 +22,4 @@
 * [Machine Learning in a Year - Per Harald Borgen - Medium](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.gf3juioex)
 * [CS231n: Convolutional Neural Networks for Visual Recognition. - Stanford University](http://cs231n.github.io/)
 * [Python Numpy Tutorial - Stanford University CS231n](http://cs231n.github.io/python-numpy-tutorial/)
+* [Matplotlib Tutorial](http://jakevdp.github.io/mpl_tutorial/index.html)

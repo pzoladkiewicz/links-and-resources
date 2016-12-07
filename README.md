@@ -23,3 +23,4 @@
 * [CS231n: Convolutional Neural Networks for Visual Recognition. - Stanford University](http://cs231n.github.io/)
 * [Python Numpy Tutorial - Stanford University CS231n](http://cs231n.github.io/python-numpy-tutorial/)
 * [Matplotlib Tutorial](http://jakevdp.github.io/mpl_tutorial/index.html)
+* [Programming for Engineers](http://apmonitor.com/che263/index.php)

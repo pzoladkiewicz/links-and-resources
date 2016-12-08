@@ -24,3 +24,4 @@
 * [Python Numpy Tutorial - Stanford University CS231n](http://cs231n.github.io/python-numpy-tutorial/)
 * [Matplotlib Tutorial](http://jakevdp.github.io/mpl_tutorial/index.html)
 * [Programming for Engineers](http://apmonitor.com/che263/index.php)
+* [Losing your Loops Fast Numerical Computing with NumPy - PyCon 2015](https://www.youtube.com/watch?v=EEUXKG97YRw)

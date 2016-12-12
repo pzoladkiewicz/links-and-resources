@@ -27,3 +27,4 @@
 * [Matplotlib Tutorial](http://jakevdp.github.io/mpl_tutorial/index.html)
 * [Programming for Engineers](http://apmonitor.com/che263/index.php)
 * [Losing your Loops Fast Numerical Computing with NumPy - PyCon 2015](https://www.youtube.com/watch?v=EEUXKG97YRw)
+* [Keras Tutorial: The Ultimate Beginner’s Guide to Deep Learning in Python](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)

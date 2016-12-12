@@ -11,6 +11,8 @@
 * [Python’s super() considered super! - Deep Thoughts by Raymond Hettinger](https://rhettinger.wordpress.com/2011/05/26/super-considered-super/)
 * [Python's Super is nifty, but you can't use it](https://fuhm.net/super-harmful/)
 * [The Sadness of Python's super()](http://blog.codekills.net/2014/04/02/the-sadness-of-pythons-super/)
+* [How to Think Like a Computer Scientist: Interactive Edition](http://interactivepython.org/runestone/static/thinkcspy/index.html)
+* [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 
 ##### Courses to consider
 * [Intro to Machine Learning - Udacity (Intermediate)](https://www.udacity.com/course/intro-to-machine-learning--ud120)

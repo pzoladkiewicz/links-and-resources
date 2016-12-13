@@ -29,3 +29,4 @@
 * [Losing your Loops Fast Numerical Computing with NumPy - PyCon 2015](https://www.youtube.com/watch?v=EEUXKG97YRw)
 * [Keras Tutorial: The Ultimate Beginner’s Guide to Deep Learning in Python](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
 * [How to Learn Python for Data Science, The Self-Starter Way](https://elitedatascience.com/learn-python-for-data-science)
+* [Dan Bader - Python tutorials - YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)

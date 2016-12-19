@@ -19,6 +19,10 @@
 * [Intro to Machine Learning - Udacity (Intermediate)](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 * [Machine Learning - Coursera (Hard)](https://www.coursera.org/learn/machine-learning)
 
+##### Kaggle
+* [Free Kaggle Machine Learning Tutorial for Python](http://blog.kaggle.com/2016/04/25/free-kaggle-machine-learning-tutorial-for-python/)
+* [Scikit-Learn Tutorial Series - Kaggle](http://www.datasciencecentral.com/profiles/blogs/scikit-learn-tutorial-series)
+
 ##### Misc.
 * [Learning How To Code Neural Networks - Per Harald Borgen - Medium](https://medium.com/learning-new-stuff/how-to-learn-neural-networks-758b78f2736e#.8cus20ssx)
 * [Machine Learning in a Week - Per Harald Borgen - Medium](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.hukatryt9)

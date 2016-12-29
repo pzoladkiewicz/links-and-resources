@@ -18,7 +18,7 @@
 ##### Courses to consider
 * [Intro to Machine Learning - Udacity (Intermediate)](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 * [Machine Learning - Coursera (Hard)](https://www.coursera.org/learn/machine-learning)
-* [https://www.udacity.com/wiki/cs212](Design of Computer Programs - Udacity)
+* [Design of Computer Programs - Udacity](https://www.udacity.com/wiki/cs212)
 
 ##### Kaggle
 * [Free Kaggle Machine Learning Tutorial for Python](http://blog.kaggle.com/2016/04/25/free-kaggle-machine-learning-tutorial-for-python/)

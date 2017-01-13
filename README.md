@@ -14,6 +14,7 @@
 * [How to Think Like a Computer Scientist: Interactive Edition](http://interactivepython.org/runestone/static/thinkcspy/index.html)
 * [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 * [Jake Vanderplas - Statistics for Hackers - PyCon 2016 - YouTube](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
+* [BeginnersGuide Python for Programmers - wiki.python.org](https://wiki.python.org/moin/BeginnersGuide/Programmers)
 
 ##### Courses to consider
 * [Intro to Machine Learning - Udacity (Intermediate)](https://www.udacity.com/course/intro-to-machine-learning--ud120)

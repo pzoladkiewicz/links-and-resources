@@ -1,7 +1,7 @@
 ##### Interesting and usefull stuff
 * [PL Gödel, Escher, Bach](http://www.wykop.pl/ramka/759461/godel-escher-bach-odyseja-w-przestrzeni-umyslu/)
 * [Gödel, Escher, Bach](https://ocw.mit.edu/high-school/humanities-and-social-sciences/godel-escher-bach/video-lectures/)
-*
+* 
 * [Learning from data](http://work.caltech.edu/telecourse)
 *
 * [Awesome python - github](https://github.com/vinta/awesome-python)

@@ -24,7 +24,8 @@
 * [Intro to Machine Learning - Udacity (Intermediate)](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 * [Machine Learning - Coursera (Hard)](https://www.coursera.org/learn/machine-learning)
 * [Design of Computer Programs - Udacity](https://www.udacity.com/wiki/cs212)
-
+*
+* [open SAP](https://open.sap.com/)
 ##### Kaggle
 * [Free Kaggle Machine Learning Tutorial for Python](http://blog.kaggle.com/2016/04/25/free-kaggle-machine-learning-tutorial-for-python/)
 * [Scikit-Learn Tutorial Series - Kaggle](http://www.datasciencecentral.com/profiles/blogs/scikit-learn-tutorial-series)

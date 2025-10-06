@@ -1,3 +1,28 @@
+
+# Przydatne Linki i Zasoby
+
+## Opis Projektu
+
+Kolekcja przydatnych linków, narzędzi i zasobów związanych z programowaniem i analizą danych. Służył jako osobista baza wiedzy podczas rozwoju kompetencji technicznych.
+
+## Status Projektu
+
+**Status**: Archiwalna baza wiedzy (2016-2017)  
+**Licencja**: MIT License  
+**Cel**: Organizacja zasobów edukacyjnych
+
+## Kategorie Zasobów
+
+- Tutoriale programistyczne
+- Dokumentacja techniczna
+- Narzędzia deweloperskie
+- Kursy online
+
+---
+**Uwaga**: To repozytorium zostało zarchiwizowane w ramach reorganizacji portfolio.
+---
+---
+
 ##### Interesting and usefull stuff
 * [PL Gödel, Escher, Bach](http://www.wykop.pl/ramka/759461/godel-escher-bach-odyseja-w-przestrzeni-umyslu/)
 * [Gödel, Escher, Bach](https://ocw.mit.edu/high-school/humanities-and-social-sciences/godel-escher-bach/video-lectures/)
